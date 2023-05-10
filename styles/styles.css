@@ -2,3 +2,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: aqua;
 }
+li {
+    margin: 2px;
+}
+div {
+    background-color: red;
+}
+img {
+    max-width: 400px;
+    height: auto;
+}
+ol {
+    background-color: pink;
+}
+ul {
+    background-color: greenyellow;
+}
